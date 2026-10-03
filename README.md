@@ -98,7 +98,6 @@ StudyFlow/
 │   └── app/
 │       ├── _layout.js    # Expo Router stack with the header hidden
 │       └── index.js      # Main StudyFlow app, data, components, views, and styles
-├── assets/               # App icons, splash images, and other Expo assets
 ├── app.json              # Expo app configuration
 ├── package.json          # Dependencies and run scripts
 ├── package-lock.json     # Locked npm dependency versions
@@ -144,13 +143,7 @@ Task changes are stored in React state while the app is running. There is no dat
 
 ## 8. Screenshots / Demonstration
 
-Screenshots or a short demonstration video can be added here for the university submission. Suggested captures include:
-
-- Home dashboard
-- Tasks view with the filter controls and Add Task form
-- A completed task and the empty-state message
-- Courses view with a selected course
-- Analytics view showing both charts
+Screenshots added in the ZIP file.
 
 ## 9. AI-Assisted Development
 
